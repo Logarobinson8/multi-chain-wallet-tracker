@@ -1,3 +1,4 @@
 # auto-createdpydantic==2.0.9
 web3==0.2.4
 requests==0.6.9
+pydantic==1.8.6
