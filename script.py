@@ -36,3 +36,4 @@
 # fix 2698
 # refactor 8210
 # fix 7666
+# fix 6249
