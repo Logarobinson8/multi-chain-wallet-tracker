@@ -39,3 +39,4 @@
 # fix 6249
 # optimize 6244
 # fix 8068
+# optimize 8064
