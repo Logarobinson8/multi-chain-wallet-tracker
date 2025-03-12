@@ -38,3 +38,4 @@
 # fix 7666
 # fix 6249
 # optimize 6244
+# fix 8068
