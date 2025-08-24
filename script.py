@@ -28,3 +28,4 @@
 # fix 8654
 # refactor 8396
 # optimize 9020
+# fix 8974
